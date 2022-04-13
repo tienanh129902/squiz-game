@@ -1,4 +1,5 @@
-# RESTful API for "Squiz" game (Simply it's a quiz game 👽 )
+# RESTful API for "Squiz" game 
+##(Simply it's a quiz game 👽 )
 
 This project is based on a [node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) from github.
 
